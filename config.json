@@ -1,0 +1,14 @@
+{
+  "wake_word": "susie",
+  "porcupine_sensitivity": 0.5,
+  "whisper_model": "tiny",
+  "audio_sample_rate": 16000,
+  "audio_chunk_duration": 1.0,
+  "recording_duration": 5,
+  "output_file": "output.txt",
+  "symspell_max_edit_distance": 2,
+  "symspell_prefix_length": 7,
+  "gui_width": 600,
+  "gui_height": 400,
+  "spectrum_update_interval": 50
+}
