@@ -1,0 +1,10 @@
+pvporcupine==3.0.2
+openai-whisper==20231117
+torch==2.1.2
+torchaudio==2.1.2
+numpy==1.24.3
+pyaudio==0.2.14
+symspellpy==6.7.7
+tkinter-pyinstaller==1.0
+pillow==10.2.0
+matplotlib==3.8.2
